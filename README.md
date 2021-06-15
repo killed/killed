@@ -11,7 +11,7 @@
 [<img alin="left" alt="Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
 
 [discord]: https://discordapp.com/users/158689231173058560
-[instagram]: https://instagram.com/degraded.miracle.done
+[instagram]: https://instagram.com/havent
 [steam]: https://steamcommunity.com/id/stretching
-[twitter]: https://twitter.com/removalYup
+[twitter]: https://twitter.com/lobby
 [lastfm]: https://www.last.fm/user/js
