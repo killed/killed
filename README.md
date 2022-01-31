@@ -4,6 +4,8 @@
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=killed&hide_border=true&theme=midnight-purple" />
 
+<img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=killed&hide_border=true&theme=midnight-purple" />
+
 <br />
 <br />
 <br />
