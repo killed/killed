@@ -4,6 +4,19 @@
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=killed&hide_border=false&theme=midnight-purple" />
 
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+
 [<img align="left" alt="Steam" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/steam.svg" />][steam]
 
 [<img align="left" alt="LastFM" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/last-dot-fm.svg" />][lastfm]
