@@ -2,10 +2,6 @@
 
 <br />
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=killed&hide_border=false&theme=midnight-purple" />
-
-<br />
-
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=killed&hide_border=false&theme=midnight-purple" />
 
 <br />
