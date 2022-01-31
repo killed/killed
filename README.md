@@ -2,9 +2,9 @@
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=killed&hide_border=false&theme=midnight-purple" />
 
-![](https://komarev.com/ghpvc/?username=killed&color=blueviolet)
-
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=killed&hide_border=false&theme=midnight-purple" />
+
+![](https://komarev.com/ghpvc/?username=killed&color=blueviolet)
 
 <br />
 <br />
