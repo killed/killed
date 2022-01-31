@@ -13,9 +13,13 @@
 <br />
 
 [<img align="left" alt="Steam" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/steam.svg" />][steam]
+
 [<img align="left" alt="LastFM" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/last-dot-fm.svg" />][lastfm]
+
 [<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+
 [<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
 [<img alin="left" alt="Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
 
 [discord]: https://discordapp.com/users/839622707535413278
