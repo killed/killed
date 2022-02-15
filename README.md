@@ -1,4 +1,4 @@
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=killed&show_icons=true&hide_border=false&theme=midnight-purple" />
+<img align="left" src="https://spotify-recently-played-readme.vercel.app/api?user=pjsemysvmiiuhtmot6uxxwokb" />
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=killed&hide_border=false&theme=midnight-purple" />
 
 <br />
@@ -18,5 +18,3 @@
 [steam]: https://steamcommunity.com/id/stretching
 [twitter]: https://twitter.com/galaxy
 [lastfm]: https://www.last.fm/user/js
-
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=pjsemysvmiiuhtmot6uxxwokb)
