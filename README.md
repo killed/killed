@@ -11,7 +11,7 @@
 [<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img alin="left" alt="Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
 
-![](https://komarev.com/ghpvc/?username=killed&color=blueviolet)
+<img align="left" src="https://komarev.com/ghpvc/?username=killed&color=blueviolet" />
 
 [discord]: https://discordapp.com/users/839622707535413278
 [instagram]: https://instagram.com/jgj
