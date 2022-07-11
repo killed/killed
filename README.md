@@ -14,7 +14,7 @@
 <img align="left" src="https://komarev.com/ghpvc/?username=killed&color=blueviolet" />
 
 [discord]: https://discordapp.com/users/839622707535413278
-[instagram]: https://instagram.com/jgj/
+[instagram]: https://instagram.com/mmmm673279/
 [steam]: https://steamcommunity.com/id/stretching
 [twitter]: https://twitter.com/galaxy
 [lastfm]: https://www.last.fm/user/js
